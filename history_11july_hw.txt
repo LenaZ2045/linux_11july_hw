@@ -1,0 +1,10 @@
+   0 mkdir -p /home/animals/dogs /home/animals/cats /home/animals/fish
+   1 touch /home/animals/dogs/pluto /home/animals/cats/garfield /home/animals/fish/nemo
+   2 touch /tmp/adam
+   3 mkdir /home/humans
+   4 cp /tmp/adam /home/humans/adam
+   5 touch /tmp/evA
+   6 mv /tmp/evA /opt/eve
+   7 mv /opt/eve /home/humans/eve
+   8 tree /home
+   9 history > history_11july_hw.txt
